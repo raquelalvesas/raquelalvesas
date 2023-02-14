@@ -1,4 +1,4 @@
-## Olá devs! Eu sou a Raquel ALves 👋
+## Olá devs! Eu sou a Raquel Alves 👋
 
 ### Seja bem vindo!
 
