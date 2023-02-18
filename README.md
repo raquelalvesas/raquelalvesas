@@ -2,7 +2,7 @@
 
 ### Seja bem vindo!
 
-- 💻Hoje trabalho com Java, Kotlin e AWS em uma grande instituição financeira 
+- 💻Trabalho com Java, Kotlin e AWS em uma grande instituição financeira 
 - 💞Apaixonada pelo mundo da tecnologia
 - 🌴Amo viajar
 
