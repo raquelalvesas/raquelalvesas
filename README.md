@@ -13,7 +13,6 @@
 
 <div style="diplay: inline_block"><br>
   <img align="center" alt="Raquel-Java" height"30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Raquel-AWS" height"30 width="40" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor">
 </div>
 
 </p>
